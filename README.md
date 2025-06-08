@@ -16,13 +16,21 @@ Guided by the Ames Grid framework, this project focused on four key components: 
 - **Stakeholders:** The primary stakeholders include the Sales Director and regional managers, who require accurate, consistent data to make informed decisions.
 - **End Result:** Develop a centralized, interactive dashboard that consolidates sales data from all regions, providing real-time insights.
 - **Success Criteria:** Improved data consistency and accuracy, streamlined reporting processes, and empowered leadership with actionable insights for data-driven decision-making.
-## Dataset used
+#### Dataset used
 - <a href="https://github.com/TharunKumarReddyA-fr/Sales_Insights/blob/main/Datasets.zip">Download/Open Dataset</a>
+#### SQL dump file
+- <a href="https://github.com/TharunKumarReddyA-fr/Sales_Insights/blob/main/db_dump.sql">Open SQL Dump</a>
+
 
 ## Tools and Technologies
 
 - **Power BI:** Used for data visualization, dashboard creation, and interactive reporting.
+- <a href="https://github.com/TharunKumarReddyA-fr/Sales_Insights/blob/main/Dashboards.pbit">View dashboard</a>
+
+
+
 - **SQL:** Employed for querying and extracting relevant sales data from databases to ensure accurate and structured data inputs for the dashboard.
+- <a href="https://github.com/TharunKumarReddyA-fr/Sales_Insights/blob/main/queries.sql">Open SQL Queries</a>
 
 ## Key Features & Functionality
 
