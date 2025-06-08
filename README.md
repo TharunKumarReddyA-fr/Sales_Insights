@@ -28,10 +28,6 @@ Guided by the Ames Grid framework, this project focused on four key components: 
 - <a href="https://github.com/TharunKumarReddyA-fr/Sales_Insights/blob/main/Dashboards.pbit">View dashboard</a>
   or <a href="https://github.com/TharunKumarReddyA-fr/Sales_Insights/blob/main/dashboard.PNG.zip">Download</a>
 
-
-
-
-
 - **SQL:** Employed for querying and extracting relevant sales data from databases to ensure accurate and structured data inputs for the dashboard.
 - <a href="https://github.com/TharunKumarReddyA-fr/Sales_Insights/blob/main/queries.sql">Open SQL Queries</a>
 
@@ -44,6 +40,9 @@ Guided by the Ames Grid framework, this project focused on four key components: 
 - **Interactive Filters:** Allows users to easily filter data by region, time period, sales channels, and customers to customize views.
 - **Easy Dataset Updates:** Supports updating the sales data to keep dashboards accurate and relevant.
 
+## Dashboard
+![Performance Insights](https://github.com/user-attachments/assets/bde6c87e-9e22-4443-9650-3bec26251dc9)
+- View more: <a href="https://github.com/TharunKumarReddyA-fr/Sales_Insights/blob/main/Dashboards.pbit">Here</a>
 ## Outcome & Impact
 
 - Enabled data-driven decision-making by providing accurate and consistent sales data across regions.
