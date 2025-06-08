@@ -16,6 +16,8 @@ Guided by the Ames Grid framework, this project focused on four key components: 
 - **Stakeholders:** The primary stakeholders include the Sales Director and regional managers, who require accurate, consistent data to make informed decisions.
 - **End Result:** Develop a centralized, interactive dashboard that consolidates sales data from all regions, providing real-time insights.
 - **Success Criteria:** Improved data consistency and accuracy, streamlined reporting processes, and empowered leadership with actionable insights for data-driven decision-making.
+## Dataset used
+- < a href = "https://github.com/TharunKumarReddyA-fr/Sales_Insights/blob/main/Datasets.zip"> Download/Open Dataset </a>
 
 ## Tools and Technologies
 
