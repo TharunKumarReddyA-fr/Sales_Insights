@@ -10,7 +10,7 @@ Atlec Hardware has recently experienced a decline in sales, largely due to limit
 
 ## Project Objectives
 
-Guided by the Ames Grid framework, this project focused on four key components: purpose, stakeholders, end results, and success criteria.
+Guided by the Aims Grid framework, this project focused on four key components: purpose, stakeholders, end results, and success criteria.
 
 - **Purpose:** To enhance sales visibility and reduce reliance on manual data handling processes that were time-consuming and prone to errors.
 - **Stakeholders:** The primary stakeholders include the Sales Director and regional managers, who require accurate, consistent data to make informed decisions.
