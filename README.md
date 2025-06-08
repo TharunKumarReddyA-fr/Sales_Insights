@@ -2,11 +2,11 @@
 
 ## Project Summary
 
-Sales Insights is a Power BI project developed to address the challenges of inconsistent and unreliable sales data faced by Atlec Hardware’s sales leadership. Through comprehensive data cleaning, transformation, and intuitive visualizations, the dashboard delivers accurate, real-time insights across multiple regions, empowering informed decision-making and strategic performance management.
+Sales Insights is a Power BI project developed to address the challenges of inconsistent and unreliable sales data faced by the Hardware Company’s sales leadership. Through comprehensive data cleaning, transformation, and intuitive visualizations, the dashboard delivers accurate, real-time insights across multiple regions, empowering informed decision-making and strategic performance management.
 
 ## Problem Statement
 
-Atlec Hardware has recently experienced a decline in sales, largely due to limited visibility into regional performance metrics. The Sales Director currently relies on verbal updates and fragmented Excel reports from regional managers, which are often inconsistent and difficult to interpret. This lack of reliable, timely data hampers effective decision-making. To overcome these challenges, a centralized, interactive dashboard is needed to deliver real-time, clear insights into sales performance across all regions.
+The company has recently experienced a decline in sales, largely due to limited visibility into regional performance metrics. The Sales Director currently relies on verbal updates and fragmented Excel reports from regional managers, which are often inconsistent and difficult to interpret. This lack of reliable, timely data hampers effective decision-making. To overcome these challenges, a centralized, interactive dashboard is needed to deliver real-time, clear insights into sales performance across all regions.
 
 ## Project Objectives
 
