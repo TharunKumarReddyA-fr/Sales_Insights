@@ -26,6 +26,9 @@ Guided by the Ames Grid framework, this project focused on four key components: 
 
 - **Power BI:** Used for data visualization, dashboard creation, and interactive reporting.
 - <a href="https://github.com/TharunKumarReddyA-fr/Sales_Insights/blob/main/Dashboards.pbit">View dashboard</a>
+  or <a href="https://github.com/TharunKumarReddyA-fr/Sales_Insights/blob/main/dashboard.PNG.zip">Download</a>
+
+
 
 
 
